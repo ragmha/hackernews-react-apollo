@@ -1,0 +1,46 @@
+{
+  "name": "hackernews-react-apollo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/graphql": "^14.0.3",
+    "@types/jest": "23.3.10",
+    "@types/node": "10.12.18",
+    "@types/react": "16.7.17",
+    "@types/react-dom": "16.0.11",
+    "@types/react-router": "^4.4.3",
+    "@types/react-router-dom": "^4.3.1",
+    "@types/ws": "^6.0.1",
+    "apollo-boost": "^0.1.23",
+    "apollo-link": "^1.2.6",
+    "apollo-link-context": "^1.0.12",
+    "apollo-link-ws": "^1.0.12",
+    "apollo-utilities": "^1.0.27",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "react": "^16.7.0-alpha.2",
+    "react-apollo": "^2.3.3",
+    "react-dom": "^16.7.0-alpha.2",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-test-renderer": "^16.7.0-alpha.2",
+    "subscriptions-transport-ws": "^0.9.15",
+    "typescript": "3.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
